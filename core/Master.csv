@@ -96,7 +96,7 @@ adamswi01,1890,9,27,USA,PA,Clearfield,1937,6,18,USA,NY,Albany,Willie,Adams,James
 adamswi02,1972,10,8,USA,NM,Gallup,,,,,,,Willie,Adams,William Edward,215,79,R,R,1996-06-11,1997-08-14,adamw001,adamswi02
 adcocjo01,1927,10,30,USA,LA,Coushatta,1999,5,3,USA,LA,Coushatta,Joe,Adcock,Joseph Wilbur,210,76,R,R,1950-04-23,1966-10-01,adcoj101,adcocjo01
 adcocna01,1988,2,25,USA,KY,Elizabethtown,,,,,,,Nathan,Adcock,Nathan Masler,235,76,R,R,2011-03-31,2015-07-26,adcon001,adcocna01
-addisbo01,1925,11,6,USA,OH,Mineral,,,,,,,Bob,Addis,Robert Gordon,175,72,L,R,1950-09-01,1953-06-12,addib101,addisbo01
+addisbo01,1925,11,6,USA,OH,Mineral,2016,11,15,,,,Bob,Addis,Robert Gordon,175,72,L,R,1950-09-01,1953-06-12,addib101,addisbo01
 adducji01,1959,8,9,USA,IL,Chicago,,,,,,,Jim,Adduci,James David,200,77,L,L,1983-09-12,1989-07-26,adduj001,adducji01
 adducji02,1985,5,15,CAN,BC,Burnaby,,,,,,,Jim,Adduci,Jim Charles,210,74,L,L,2013-09-01,2014-09-28,adduj002,adducji02
 addybo01,1842,2,,CAN,ON,Port Hope,1910,4,9,USA,ID,Pocatello,Bob,Addy,Robert Edward,160,68,L,L,1871-05-06,1877-10-06,addyb101,addybo01
@@ -2191,7 +2191,7 @@ bunchme01,1971,11,4,USA,TX,Texarkana,,,,,,,Melvin,Bunch,Melvin Lynn,165,73,R,R,1
 bundydy01,1992,11,15,USA,OK,Tulsa,,,,,,,Dylan,Bundy,Dylan Matthew,200,73,B,R,2012-09-23,2016-09-25,bundd001,bundydy01
 bunkewa01,1945,1,25,USA,WA,Seattle,,,,,,,Wally,Bunker,Wallace Edward,197,74,R,R,1963-09-29,1971-05-26,bunkw101,bunkewa01
 bunniji01,1931,10,23,USA,KY,Southgate,,,,,,,Jim,Bunning,James Paul David,190,75,R,R,1955-07-20,1971-09-03,bunnj101,bunniji01
-burawda01,1988,12,30,USA,NY,Riverhead,,,,,,,Danny,Burawa,Daniel James,210,74,R,R,2015-06-21,2015-10-02,burad001,burawda01
+burawda01,1988,12,30,USA,NY,Riverhead,,,,,,,Danny,Burawa,Daniel James,220,75,R,R,2015-06-21,2015-10-02,burad001,burawda01
 burbabi01,1947,8,22,USA,WI,Dickeyville,,,,,,,Bill,Burbach,William David,215,76,R,R,1969-04-11,1971-04-24,burbb101,burbabi01
 burbada01,1966,7,7,USA,OH,Dayton,,,,,,,Dave,Burba,David Allen,220,76,R,R,1990-09-08,2004-09-19,burbd001,burbada01
 burbrne01,1921,12,28,USA,OH,Cincinnati,2001,4,12,USA,FL,Largo,Nelson,Burbrink,Nelson Edward,195,70,R,R,1955-06-05,1955-09-21,burbn101,burbrne01
@@ -2494,7 +2494,7 @@ campbbr01,1909,10,20,USA,IL,Chicago,1995,6,17,USA,FL,Fort Myers Beach,Bruce,Camp
 campbbr02,1981,10,17,USA,GA,Atlanta,,,,,,,Brett,Campbell,Richard Brett,170,72,R,R,2006-09-07,2006-09-18,campb002,campbbr02
 campbda01,1942,1,14,USA,MI,Manistee,,,,,,,Dave,Campbell,David Wilson,180,73,R,R,1967-09-17,1974-09-30,campd101,campbda01
 campbda02,1951,9,3,USA,IN,Princeton,,,,,,,Dave,Campbell,David Alan,210,75,R,R,1977-05-06,1978-10-01,campd102,campbda02
-campber01,1987,4,9,USA,CT,Norwich,,,,,,,Eric,Campbell,Eric Singleton,205,75,R,R,2014-05-10,2016-10-02,campe001,campber01
+campber01,1987,4,9,USA,CT,Norwich,,,,,,,Eric,Campbell,Eric Singleton,215,75,R,R,2014-05-10,2016-10-02,campe001,campber01
 campbgi01,1908,2,13,USA,KS,Kansas City,1973,2,21,USA,CA,Los Angeles,Gilly,Campbell,William Gilthorpe,182,67,L,R,1933-04-25,1938-10-02,campg101,campbgi01
 campbhu01,1846,,,Ireland,,,1881,3,1,USA,NJ,Newark,Hugh,Campbell,Hugh F.,,,,,1873-04-28,1873-07-23,camph101,campbhu01
 campbhu02,1884,11,29,USA,PA,Punxsutawney,1946,2,13,USA,PA,New Bethlehem,Marc,Campbell,Marc Thaddeus,155,70,L,R,1907-09-30,1907-10-01,campm102,campbma02
@@ -2627,7 +2627,7 @@ carpebu01,1968,7,23,USA,TX,Dallas,,,,,,,Bubba,Carpenter,Charles Sydney,195,73,L,
 carpech01,1975,4,27,USA,NH,Exeter,,,,,,,Chris,Carpenter,Christopher John,230,78,R,R,1997-05-12,2012-10-02,carpc002,carpech01
 carpech02,1985,12,26,USA,OH,Bryan,,,,,,,Chris,Carpenter,Christopher John,220,76,R,R,2011-06-14,2012-10-03,carpc003,carpech02
 carpecr01,1965,4,5,USA,FL,St. Augustine,,,,,,,Cris,Carpenter,Cris Howell,195,73,R,R,1988-05-14,1996-04-26,carpc001,carpecr01
-carpeda01,1985,7,15,USA,WV,Morgantown,,,,,,,David,Carpenter,Darrell David,230,74,R,R,2011-06-30,2015-07-05,carpd001,carpeda01
+carpeda01,1985,7,15,USA,WV,Morgantown,,,,,,,David,Carpenter,Darrell David,250,75,R,R,2011-06-30,2015-07-05,carpd001,carpeda01
 carpeda02,1987,9,1,USA,TX,Arlington,,,,,,,David,Carpenter,David Lee,180,75,R,R,2012-04-13,2015-07-12,carpd002,carpeda02
 carpehi01,1855,8,16,USA,MA,Grafton,1937,4,18,USA,CA,San Diego,Hick,Carpenter,Warren William,186,71,R,L,1879-05-01,1892-07-31,carph101,carpehi01
 carpele01,1913,8,16,USA,GA,Woodstock,1979,4,25,USA,GA,Marietta,Lew,Carpenter,Lewis Emmett,195,74,R,R,1943-05-01,1943-05-09,carpl101,carpele01
@@ -2772,7 +2772,7 @@ castoko01,1981,12,8,USA,OR,Salem,,,,,,,Kory,Casto,Kory Christopher,195,73,L,R,20
 castran01,1982,11,14,D.R.,Duarte,Pimentel,,,,,,,Angel,Castro,Angel M.,240,71,R,R,2015-05-09,2015-07-24,casta004,castran01
 castrbe01,1979,7,14,D.R.,Distrito Nacional,Santo Domingo,,,,,,,Bernie,Castro,Bernabel,170,70,B,R,2005-09-01,2006-10-01,castb002,castrbe01
 castrbi01,1952,3,29,D.R.,Santiago,Santiago,,,,,,,Bill,Castro,William Radhames,170,71,R,R,1974-08-20,1983-06-25,castb101,castrbi01
-castrda01,1992,11,14,Mexico,Sonora,Guaymas,,,,,,,Daniel,Castro,Daniel Alejandro,175,71,R,R,2015-06-17,2016-09-30,castd001,castrda01
+castrda01,1992,11,14,Mexico,Sonora,Guaymas,,,,,,,Daniel,Castro,Daniel Alejandro,190,71,R,R,2015-06-17,2016-09-30,castd001,castrda01
 castrfa01,1985,1,20,D.R.,Monte Cristi,Monte Cristi,,,,,,,Fabio,Castro,Fabio Enrique,185,67,L,L,2006-04-06,2007-09-17,castf002,castrfa01
 castrja01,1987,6,18,USA,CA,Castro Valley,,,,,,,Jason,Castro,Jason Michael,215,75,L,R,2010-06-22,2016-09-30,castj006,castrja01
 castrju01,1972,6,20,Mexico,Sinaloa,Los Mochis,,,,,,,Juan,Castro,Juan Gabriel,190,71,R,R,1995-09-02,2011-06-04,castj004,castrju01
@@ -2828,7 +2828,7 @@ cerroju01,1976,9,25,Mexico,Nuevo Leon,Monterrey,,,,,,,Juan,Cerros,R. Juan,200,73
 cerutjo01,1960,4,28,USA,NY,Albany,2004,10,3,CAN,ON,Toronto,John,Cerutti,John Joseph,195,74,L,L,1985-09-01,1991-10-05,ceruj001,cerutjo01
 cervbo01,1925,5,5,USA,NE,Weston,,,,,,,Bob,Cerv,Robert Henry,200,72,R,R,1951-08-01,1962-07-29,cervb101,cervbo01
 cervefr01,1986,3,6,Venezuela,Carabobo,Valencia,,,,,,,Francisco,Cervelli,Francisco,205,73,R,R,2008-09-18,2016-09-27,cervf001,cervefr01
-cervehu01,1990,1,3,USA,TX,Baytown,,,,,,,Hunter,Cervenka,Colby Hunter,225,73,L,L,2016-04-12,2016-10-02,,cervehu01
+cervehu01,1990,1,3,USA,TX,Baytown,,,,,,,Hunter,Cervenka,Colby Hunter,245,73,L,L,2016-04-12,2016-10-02,,cervehu01
 cervemi01,1976,8,17,USA,MI,Trenton,,,,,,,Mike,Cervenak,Michael Christopher,195,71,R,R,2008-07-11,2008-09-28,cervm001,cervemi01
 cespeyo01,1985,10,18,Cuba,Granma,Campechuela,,,,,,,Yoenis,Cespedes,Yoenis,220,70,R,R,2012-03-28,2016-10-01,cespy001,cespeyo01
 cessalu01,1992,4,25,Mexico,Veracruz,Cordoba,,,,,,,Luis,Cessa,Luis Enrique,205,72,R,R,2016-04-08,2016-10-02,,cessalu01
@@ -2925,7 +2925,7 @@ chenbr01,1977,6,19,Panama,Panama,Panama,,,,,,,Bruce,Chen,Bruce Kastulo,215,74,L,
 chench01,1977,10,28,Taiwan,,Tainan City,,,,,,,Chin-Feng,Chen,Chin-Feng,189,73,R,R,2002-09-14,2005-07-20,chenc001,chench01
 chenela01,1886,5,2,USA,KS,Belleville,1969,1,6,USA,FL,Daytona Beach,Larry,Cheney,Laurence Russell,185,73,R,R,1911-09-09,1919-09-26,chenl101,chenela01
 cheneto01,1934,10,14,USA,GA,Morgan,2001,11,1,USA,GA,Rome,Tom,Cheney,Thomas Edgar,170,71,R,R,1957-04-21,1966-05-09,chent101,cheneto01
-chenwe02,1985,7,21,Taiwan,,Kaohsiung City,,,,,,,Wei-Yin,Chen,Wei-Yin,200,72,L,L,2012-04-10,2016-10-01,chenw001,chenwe02
+chenwe02,1985,7,21,Taiwan,,Kaohsiung City,,,,,,,Wei-Yin,Chen,Wei-Yin,200,72,R,L,2012-04-10,2016-10-01,chenw001,chenwe02
 cherrro01,1979,8,19,USA,TX,Dallas,,,,,,,Rocky,Cherry,Rocky Ty,225,77,R,R,2007-04-23,2008-09-24,cherr001,cherrro01
 chervpa01,1910,7,23,USA,PA,Trauger,1976,6,3,USA,IL,Danville,Paul,Chervinko,Paul,185,68,R,R,1937-05-30,1938-07-09,cherp101,chervpa01
 chesbja01,1874,6,5,USA,MA,North Adams,1931,11,6,USA,MA,Conway,Jack,Chesbro,John Dwight,180,69,R,R,1899-07-12,1909-10-02,chesj101,chesbja01

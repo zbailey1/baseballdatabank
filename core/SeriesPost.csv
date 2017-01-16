@@ -314,4 +314,4 @@ yearID,round,teamIDwinner,lgIDwinner,teamIDloser,lgIDloser,wins,losses,ties
 2016,NLCS,CHN,NL,LAN,NL,4,2,0
 2016,NLDS1,CHN,NL,SFN,NL,3,1,0
 2016,NLDS2,LAN,NL,WAS,NL,3,2,0
-2016,WS,CHN,NL,CLE,NL,4,3,0
+2016,WS,CHN,NL,CLE,AL,4,3,0

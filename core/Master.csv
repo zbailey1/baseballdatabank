@@ -84,7 +84,7 @@ adamsma01,1988,8,31,USA,PA,Philipsburg,,,,,,,Matt,Adams,Matthew James,260,75,L,R
 adamsmi01,1947,9,13,USA,CA,San Diego,,,,,,,Mike,Adamson,John Michael,185,74,R,R,1967-07-01,1969-05-07,adamm101,adamsmi01
 adamsmi02,1948,7,24,USA,OH,Cincinnati,,,,,,,Mike,Adams,Robert Michael,180,69,R,R,1972-09-10,1978-07-25,adamm102,adamsmi02
 adamsmi03,1978,7,29,USA,TX,Corpus Christi,,,,,,,Mike,Adams,Jon Michael,210,77,R,R,2004-05-18,2014-09-18,adamm001,adamsmi03
-adamsre01,1921,10,7,USA,CA,Parlier,,,,,,,Red,Adams,Charles Dwight,185,72,R,R,1946-05-05,1946-07-02,adamr101,adamsre01
+adamsre01,1921,10,7,USA,CA,Parlier,2017,1,18,,,,Red,Adams,Charles Dwight,185,72,R,R,1946-05-05,1946-07-02,adamr101,adamsre01
 adamsri01,1878,12,24,USA,TX,Paris,1955,3,10,USA,TX,Paris,Rick,Adams,Reuben Alexander,165,72,L,L,1905-07-13,1905-09-29,adamr102,adamsri01
 adamsri02,1959,1,21,USA,CA,Upland,2011,10,28,USA,CA,Rancho Cucamonga,Ricky,Adams,Ricky Lee,180,74,R,R,1982-09-15,1985-10-05,adamr001,adamsri02
 adamsru01,1980,8,30,USA,NC,Laurinburg,,,,,,,Russ,Adams,Russ Moore,205,72,L,R,2004-09-03,2009-06-30,adamr002,adamsru01
@@ -10712,7 +10712,7 @@ marshwi01,1921,2,8,USA,VA,Richmond,2000,11,5,USA,NJ,Norwood,Willard,Marshall,Wil
 marsolo01,1986,6,26,USA,AZ,Scottsdale,,,,,,,Lou,Marson,Louis Glenn,205,73,R,R,2008-09-28,2013-04-24,marsl001,marsolo01
 marsosa01,1978,7,10,USA,FL,Tampa,,,,,,,Sam,Marsonek,Samuel R.,225,78,R,R,2004-07-11,2004-07-11,marss001,marsosa01
 marteal01,1989,3,31,D.R.,Distrito Nacional,Santo Domingo,,,,,,,Alfredo,Marte,Alfredo,200,71,R,R,2013-04-02,2015-06-23,marta005,marteal01
-martean01,1983,10,21,D.R.,Hermanas Mirabal,Villa Tapia,,,,,,,Andy,Marte,Andy Manuel,205,73,R,R,2005-06-07,2014-08-06,marta004,martean01
+martean01,1983,10,21,D.R.,Hermanas Mirabal,Villa Tapia,2017,1,22,D.R.,,,Andy,Marte,Andy Manuel,205,73,R,R,2005-06-07,2014-08-06,marta004,martean01
 marteda01,1975,2,14,D.R.,Distrito Nacional,Santo Domingo,,,,,,,Damaso,Marte,Damaso,215,74,L,L,1999-06-30,2010-07-07,martd004,marteda01
 martedo01,1883,6,29,USA,MA,Weymouth,1947,10,11,USA,DC,Washington,Doc,Martel,Leon Alphonse,185,72,R,R,1909-07-06,1910-06-18,martd102,martedo01
 marteje01,1991,6,21,D.R.,La Romana,La Romana,,,,,,,Jefry,Marte,Jefry Leonal,220,73,R,R,2015-07-05,2016-10-02,martj007,marteje01
@@ -16440,7 +16440,7 @@ starkma01,1965,1,21,USA,CA,Whittier,,,,,,,Matt,Stark,Matthew Scott,225,76,R,R,19
 starnge01,1873,10,6,USA,IL,Belleville,1946,2,15,USA,IL,Belleville,George,Starnagle,George Henry,175,71,R,R,1902-09-14,1902-09-14,starg101,starnge01
 starrbi01,1911,2,26,USA,NY,Brooklyn,1991,8,12,USA,CA,La Jolla,Chick,Starr,William,175,73,R,R,1935-08-23,1936-06-20,starc102,starrbi01
 starrch01,1878,8,30,USA,OH,Pike County,1937,10,18,USA,CA,Pasadena,Charlie,Starr,Charles Watkin,165,70,L,R,1905-04-29,1909-08-19,starc101,starrch01
-starrdi01,1921,3,2,USA,PA,Kittanning,,,,,,,Dick,Starr,Richard Eugene,190,75,R,R,1947-09-05,1951-09-29,stard102,starrdi01
+starrdi01,1921,3,2,USA,PA,Kittanning,2017,1,18,USA,PA,Kittanning,Dick,Starr,Richard Eugene,190,75,R,R,1947-09-05,1951-09-29,stard102,starrdi01
 starrhe01,1938,11,20,USA,NC,Statesville,,,,,,,Herm,Starrette,Herman Paul,175,72,R,R,1963-07-01,1965-05-10,starh101,starrhe01
 starrra01,1906,4,23,USA,OK,Nowata,1963,2,9,USA,IL,Baylis,Ray,Starr,Raymond Francis,178,73,R,R,1932-09-11,1945-09-26,starr101,starrra01
 startjo01,1842,10,14,USA,NY,New York,1927,3,27,USA,RI,Providence,Joe,Start,Joseph,165,69,L,L,1871-05-18,1886-07-09,starj101,startjo01
@@ -17739,7 +17739,7 @@ ventejo01,1985,3,20,USA,KY,Pikeville,,,,,,,Jonny,Venters,Jonathan William,200,75
 ventomi01,1978,5,25,USA,NM,Albuquerque,,,,,,,Mike,Vento,Michael,195,72,R,R,2005-09-13,2006-06-09,ventm001,ventomi01
 venturo01,1967,7,14,USA,CA,Santa Maria,,,,,,,Robin,Ventura,Robin Mark,185,73,L,R,1989-09-12,2004-10-02,ventr001,venturo01
 ventuvi01,1917,4,18,USA,NY,New York,2001,9,11,USA,FL,Lake Worth,Vince,Ventura,Vincent,190,73,R,R,1945-05-08,1945-06-15,ventv101,ventuvi01
-ventuyo01,1991,6,3,D.R.,Samana,Samana,,,,,,,Yordano,Ventura,Yordano,195,72,R,R,2013-09-17,2016-09-30,venty001,ventuyo01
+ventuyo01,1991,6,3,D.R.,Samana,Samana,2016,1,22,D.R.,Monsenor Nouel,Juan Adrian,Yordano,Ventura,Yordano,195,72,R,R,2013-09-17,2016-09-30,venty001,ventuyo01
 verasda01,1973,3,13,D.R.,Santiago,Santiago,,,,,,,Dario,Veras,Dario Antonio,165,74,R,R,1996-07-31,1998-09-21,verad001,verasda01
 verasjo01,1980,10,20,D.R.,Distrito Nacional,Santo Domingo,,,,,,,Jose,Veras,Jose Enger,240,78,R,R,2006-08-05,2014-09-27,veraj001,verasjo01
 verasqu01,1971,4,3,D.R.,Distrito Nacional,Santo Domingo,,,,,,,Quilvio,Veras,Quilvio Alberto,166,69,B,R,1995-04-25,2001-07-13,veraq001,verasqu01
@@ -18864,7 +18864,7 @@ wrighji01,1900,9,19,United Kingdom,Greater Manchester,Hyde,1963,4,11,USA,CA,Oakl
 wrighji02,1950,12,21,USA,MI,Reed City,,,,,,,Jim,Wright,James Clifton,165,73,R,R,1978-04-15,1979-06-06,wrigj103,wrighji02
 wrighji03,1955,3,3,USA,MO,St. Joseph,,,,,,,Jim,Wright,James Leon,205,77,R,R,1981-04-22,1982-05-15,wrigj101,wrighji03
 wrighjo01,1869,,,USA,WI,Oshkosh,1909,9,20,USA,NE,Omaha,Joe,Wright,Joel Sherman,175,68,L,L,1895-07-14,1896-09-18,wrigj102,wrighjo01
-wrighke01,1946,9,4,USA,FL,Pensacola,,,,,,,Ken,Wright,Kenneth Warren,210,74,R,R,1970-04-10,1974-04-28,wrigk101,wrighke01
+wrighke01,1946,9,4,USA,FL,Pensacola,2017,1,21,,,,Ken,Wright,Kenneth Warren,210,74,R,R,1970-04-10,1974-04-28,wrigk101,wrighke01
 wrighlu01,1880,2,21,USA,OH,Waterville,1941,7,8,USA,OH,Tontogany,Lucky,Wright,William Simmons,178,72,R,R,1909-04-18,1909-05-18,wrigl101,wrighlu01
 wrighme01,1928,5,11,USA,AR,Manila,1983,5,16,USA,TX,Houston,Mel,Wright,Melvin James,210,75,R,R,1954-04-17,1961-07-18,wrigm101,wrighme01
 wrighmi01,1990,1,3,USA,SC,Bennettsville,,,,,,,Mike,Wright,Dennis Michael,215,78,R,R,2015-05-17,2016-09-21,wrigm001,wrighmi01

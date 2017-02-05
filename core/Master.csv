@@ -1694,7 +1694,7 @@ bowliwe01,1940,12,10,USA,AR,Paragould,,,,,,,Weldon,Bowlin,Lois Weldon,155,69,R,R
 bowmaab01,1893,1,25,USA,IL,Greenup,1979,10,11,USA,TX,Longview,Abe,Bowman,Alvah Edson,190,73,R,R,1914-05-19,1915-06-23,bowma101,bowmaab01
 bowmabi01,1867,1,23,USA,IL,Chicago,1944,12,28,USA,IL,Chicago,Bill,Bowman,William G.,180,71,,,1891-06-18,1891-08-05,bowmb101,bowmabi01
 bowmabo01,1910,10,3,USA,WV,Keystone,1972,9,4,USA,WV,Bluefield,Bob,Bowman,Robert James,160,70,R,R,1939-04-21,1942-05-25,bowmb103,bowmabo01
-bowmabo02,1931,5,10,USA,CA,Laytonville,,,,,,,Bob,Bowman,Robert Leroy,195,73,R,R,1955-04-16,1959-09-18,bowmb102,bowmabo02
+bowmabo02,1931,5,10,USA,CA,Laytonville,2017,1,27,USA,CA,San Jose,Bob,Bowman,Robert Leroy,195,73,R,R,1955-04-16,1959-09-18,bowmb102,bowmabo02
 bowmael01,1897,3,19,USA,VT,Proctor,1985,12,17,USA,CA,Los Angeles,Elmer,Bowman,Elmari Wilhelm,193,72,R,R,1920-08-03,1920-08-09,bowme102,bowmael01
 bowmaer01,1935,7,28,USA,TN,Johnson City,,,,,,,Ernie,Bowman,Ernest Ferrell,160,70,R,R,1961-04-12,1963-09-29,bowme101,bowmaer01
 bowmajo01,1910,6,17,USA,KS,Kansas City,1990,11,22,USA,MO,Kansas City,Joe,Bowman,Joseph Emil,190,74,L,R,1932-04-18,1945-09-29,bowmj101,bowmajo01
@@ -2045,7 +2045,7 @@ brownll01,1904,12,25,USA,TX,Beeville,1974,1,14,USA,FL,Opa-locka,Lloyd,Brown,Lloy
 brownma01,1909,5,21,USA,IA,North English,2002,3,24,USA,NC,Greensboro,Mace,Brown,Mace Stanley,190,73,R,R,1935-05-21,1946-09-10,browm103,brownma01
 brownma02,1959,7,13,USA,VT,Bellows Falls,,,,,,,Mark,Brown,Mark Anthony,190,74,B,R,1984-08-09,1985-08-11,browm001,brownma02
 brownma03,1963,1,23,USA,OK,Lawton,,,,,,,Marty,Brown,Marty Leo,190,73,R,R,1988-09-04,1990-05-30,browm004,brownma03
-brownma04,1975,6,17,USA,FL,Lake Worth,,,,,,,Mark,Brownson,Mark Phillip,175,74,L,R,1998-07-21,2000-07-20,browm005,brownma04
+brownma04,1975,6,17,USA,FL,Lake Worth,2017,2,1,,,,Mark,Brownson,Mark Phillip,175,74,L,R,1998-07-21,2000-07-20,browm005,brownma04
 brownma05,1982,8,8,USA,WA,Bellevue,,,,,,,Matthew,Brown,Matthew Benjamin,200,72,R,R,2007-05-10,2008-09-28,browm006,brownma05
 brownmi01,1959,3,24,USA,NJ,Camden County,,,,,,,Mike,Brown,Michael Gary,195,74,R,R,1982-09-16,1987-08-15,browm003,brownmi01
 brownmi02,1959,12,29,USA,CA,San Francisco,,,,,,,Mike,Brown,Michael Charles,195,74,R,R,1983-07-21,1988-10-02,browm002,brownmi02
@@ -4339,7 +4339,7 @@ diazed01,1964,2,8,P.R.,,Santurce,,,,,,,Edgar,Diaz,Edgar,155,72,R,R,1986-09-16,19
 diazed02,1971,9,29,Venezuela,Lara,Barquisimeto,,,,,,,Eddy,Diaz,Eddy Javier,160,70,R,R,1997-04-17,1997-05-21,diaze003,diazed02
 diazed03,1975,1,15,P.R.,,Bayamon,,,,,,,Edwin,Diaz,Edwin,172,71,R,R,1998-03-31,1999-08-02,diaze004,diazed03
 diazed04,1994,3,22,P.R.,,Naguabo,,,,,,,Edwin,Diaz,Edwin Orlando,195,75,R,R,2016-06-06,2016-10-01,diaze006,diazed04
-diazei01,1972,12,28,Panama,Chirique,Chiriqui,,,,,,,Einar,Diaz,Einar Antonio,165,70,R,R,1996-09-09,2006-09-16,diaze002,diazei01
+diazei01,1972,12,28,Panama,Chiriqui,Chiriqui,,,,,,,Einar,Diaz,Einar Antonio,165,70,R,R,1996-09-09,2006-09-16,diaze002,diazei01
 diazel01,1990,11,17,Venezuela,Zulia,Maracaibo,,,,,,,Elias,Diaz,Elias David,210,72,R,R,2015-09-12,2016-07-24,diaze005,diazel01
 diazfe01,1980,7,27,D.R.,San Juan,Las Matas de Farfan,,,,,,,Felix,Diaz,Felix Antonio,180,73,R,R,2004-05-13,2004-09-24,diazf001,diazfe01
 diazja01,1991,5,27,Venezuela,Anzoategui,Puerto La Cruz,,,,,,,Jairo,Diaz,Jairo Jose,200,72,R,R,2014-09-08,2015-10-03,diazj006,diazja01
@@ -16660,7 +16660,7 @@ streehu01,1983,8,2,USA,TX,Austin,,,,,,,Huston,Street,Huston Lowell,205,72,R,R,20
 streios01,1873,7,7,USA,AL,Florence,1935,3,16,USA,AL,Birmingham,Oscar,Streit,Oscar William,190,77,L,L,1899-04-21,1902-06-18,streo101,streios01
 streled01,1905,4,10,USA,NJ,Newark,1968,1,9,USA,NJ,Newark,Ed,Strelecki,Edward Harold,180,71,R,R,1928-04-16,1931-09-20,stree101,streled01
 stremph01,1880,4,16,USA,OH,Zanesville,1947,12,26,USA,IL,Chicago,Phil,Stremmel,Philip,175,72,R,R,1909-09-16,1910-05-29,strep101,stremph01
-streuwa01,1935,9,26,USA,TN,Memphis,,,,,,,Walt,Streuli,Walter Herbert,195,74,R,R,1954-09-25,1956-05-01,strew101,streuwa01
+streuwa01,1935,9,26,USA,TN,Memphis,2017,1,19,USA,NC,Greensboro,Walt,Streuli,Walter Herbert,195,74,R,R,1954-09-25,1956-05-01,strew101,streuwa01
 stricbi01,1908,3,29,USA,GA,Ray City,2000,1,26,USA,FL,Lakeland,Bill,Strickland,William Goss,170,74,R,R,1937-07-16,1937-09-08,strib101,stricbi01
 striccu01,1859,6,8,USA,PA,Philadelphia,1937,11,19,USA,PA,Philadelphia,Cub,Stricker,John A.,138,63,R,R,1882-05-02,1893-09-29,stric101,striccu01
 stricel01,1876,8,29,USA,KS,Glasco,1964,6,7,USA,CA,Santa Cruz,Elmer,Stricklett,Elmer Griffin,140,66,R,R,1904-04-22,1907-09-24,strie101,stricel01

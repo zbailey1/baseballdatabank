@@ -1355,7 +1355,7 @@ birchju01,1855,9,12,USA,PA,Philadelphia,1887,12,22,USA,PA,Philadelphia,Jud,Birch
 birddo01,1950,3,5,USA,CA,Corona,,,,,,,Doug,Bird,James Douglas,180,76,R,R,1973-04-29,1983-09-10,birdd101,birddo01
 birdfr01,1869,3,10,USA,MA,Spencer,1958,5,20,USA,MA,Worcester,Frank,Bird,Frank Zephrin,195,70,R,R,1892-04-16,1892-06-10,birdf101,birdfr01
 birdge01,1850,6,23,USA,IL,Stillman Valley,1940,11,9,USA,IL,Rockford,George,Bird,George Raymond,150,69,R,R,1871-05-06,1871-09-15,birdg101,birdge01
-birdgr01,1992,11,9,USA,CO,Aurora,,,,,,,Greg,Bird,Gregory Paul,220,76,L,R,2015-08-13,2017-10-01,birdg001,birdgr01
+birdgr01,1992,11,9,USA,TN,Memphis,,,,,,,Greg,Bird,Gregory Paul,220,76,L,R,2015-08-13,2017-10-01,birdg001,birdgr01
 birdre01,1890,4,25,USA,TX,Stephenville,1972,3,23,USA,AR,Murfreesboro,Red,Bird,James Edward,170,71,L,L,1921-09-17,1921-09-17,birdr101,birdre01
 birdsda01,1838,7,16,USA,NY,New York,1896,12,30,USA,MA,Boston,Dave,Birdsall,David Solomon,126,69,,,1871-05-05,1873-05-17,birdd102,birdsda01
 birkbmi01,1961,3,10,USA,OH,Orrville,,,,,,,Mike,Birkbeck,Michael Lawrence,190,73,R,R,1986-08-17,1995-06-11,birkm001,birkbmi01
@@ -7544,7 +7544,7 @@ hemphbr01,1971,12,17,USA,CA,Santa Clara,,,,,,,Bret,Hemphill,Bret Ryan,200,75,B,R
 hemphch01,1876,4,20,USA,MI,Greenville,1953,6,22,USA,MI,Detroit,Charlie,Hemphill,Charles Judson,160,69,L,L,1899-06-27,1911-10-03,hempc101,hemphch01
 hemphfr01,1878,5,13,USA,MI,Greenville,1950,11,16,USA,IL,Chicago,Frank,Hemphill,Frank Vernon,165,71,R,R,1906-04-17,1909-06-23,hempf101,hemphfr01
 hemslro01,1907,6,24,USA,OH,Syracuse,1972,7,31,USA,DC,Washington,Rollie,Hemsley,Ralston Burdett,170,70,R,R,1928-04-19,1947-04-17,hemsr101,hemslro01
-hemusso01,1923,4,17,USA,AZ,Phoenix,,,,,,,Solly,Hemus,Solomon Joseph,165,69,L,R,1949-04-27,1959-06-14,hemus101,hemusso01
+hemusso01,1923,4,17,USA,AZ,Phoenix,2017,10,2,USA,TX,Houston,Solly,Hemus,Solomon Joseph,165,69,L,R,1949-04-27,1959-06-14,hemus101,hemusso01
 hendebe01,1899,4,12,USA,TX,Douglasville,1966,6,4,USA,TX,Linden,Bernie,Henderson,Bernard,175,69,R,R,1921-09-05,1921-10-02,hendb103,hendebe01
 hendebi01,1901,11,4,USA,FL,Pensacola,1966,10,6,USA,FL,Pensacola,Bill,Henderson,William Maxwell,190,72,R,R,1930-06-20,1930-07-04,hendb102,hendebi01
 hendebi99,1857,9,16,USA,MD,Baltimore,1929,10,27,USA,MD,Fullerton,Bill,Henderson,William C.,,,,,,,hendb801,hendebi99

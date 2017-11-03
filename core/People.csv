@@ -8770,7 +8770,7 @@ jonesda02,1918,12,17,USA,NE,Marquette,1980,11,8,USA,FL,Orlando,Dale,Jones,Dale E
 jonesda03,1943,12,10,USA,MS,McComb,,,,,,,Dalton,Jones,James Dalton,180,73,L,R,1964-04-17,1972-10-04,joned102,jonesda03
 jonesda04,1951,6,5,USA,PA,Meadville,,,,,,,Darryl,Jones,Darryl Lee,175,70,R,R,1979-06-06,1979-07-11,joned105,jonesda04
 jonesda05,1970,8,4,USA,PA,Pittsburgh,,,,,,,Dax,Jones,Dax Xenos,180,72,R,R,1996-07-11,1996-09-28,joned002,jonesda05
-jonesda06,1861,4,5,USA,NY,Utica,1937,5,1,USA,NY,Utica,David,Jones,David E.,,,,,1882-05-17,1882-07-01,,
+jonesda06,1861,4,5,USA,NY,Utica,1937,5,1,USA,NY,Utica,David,Jones,David E.,,,,,1882-05-17,1882-07-01,joned108,
 jonesde01,1893,12,20,USA,MO,Oskaloosa,1952,12,28,USA,KS,Pittsburg,Deacon,Jones,Carroll Elmer,174,73,R,R,1916-09-23,1918-08-30,joned107,jonesde01
 jonesde02,1934,4,18,USA,NY,White Plains,,,,,,,Deacon,Jones,Grover William,185,70,L,R,1962-09-08,1966-10-01,joned101,jonesde02
 jonesdi01,1902,5,22,USA,MS,Meadville,1994,8,2,USA,CA,Burlingame,Dick,Jones,Decatur Poindexter,184,72,L,R,1926-09-11,1927-04-28,joned103,jonesdi01
@@ -15844,6 +15844,7 @@ shackke01,1989,4,7,USA,NC,Charlotte,,,,,,,Kevin,Shackelford,Kevin Russell,210,77
 shafera01,1894,3,17,USA,OH,Cincinnati,1950,2,5,USA,OH,Akron,Ralph,Shafer,Ralph Newton,,71,,,1914-07-25,1914-07-25,shafr101,shafera01
 shafeti01,1889,3,22,USA,CA,Los Angeles,1962,1,10,USA,CA,Los Angeles,Tillie,Shafer,Arthur Joseph,165,70,B,R,1909-04-24,1913-10-04,shaft102,shafeti01
 shaff01,,,,,,,,,,,,,,Shaffer,,,,,,1875-09-15,1875-09-15,shafu101,shaff01
+shafff01,1859,12,6,USA,PA,Pittsburgh,1939,3,18,USA,MI,Eloise,Frank,Shaffer,Francis X.,160,71,,,1884-04-24,1884-05-03,shaff101,
 shaffjo01,1864,2,18,USA,PA,Lock Haven,1926,11,21,USA,NY,Endicott,John,Shaffer,John W.,,70,,R,1886-09-13,1887-06-30,shafj101,shaffjo01
 shaffor01,1851,10,4,USA,PA,Philadelphia,1922,1,22,USA,PA,Philadelphia,Orator,Shafer,George W.,165,69,L,R,1874-05-23,1890-09-13,shafo101,shaffor01
 shaffri01,1991,3,15,USA,NJ,Flemington,,,,,,,Richie,Shaffer,Richard Michael,230,75,R,R,2015-08-03,2016-10-02,shafr001,shaffri01
@@ -17507,7 +17508,7 @@ timpncl01,1983,5,13,USA,FL,Lakeland,,,,,,,Clay,Timpner,Clay W.,195,74,L,L,2008-0
 tincube01,1893,4,14,USA,OK,Adair,1980,7,5,USA,OK,Claremore,Ben,Tincup,Austin Ben,180,73,L,R,1914-05-22,1928-09-15,tincb101,tincube01
 tinglro01,1959,5,27,USA,ME,Presque Isle,,,,,,,Ron,Tingley,Ronald Irvin,160,74,R,R,1982-09-25,1995-09-27,tingr001,tinglro01
 tinkejo01,1880,7,27,USA,KS,Muscotah,1948,7,27,USA,FL,Orlando,Joe,Tinker,Joseph Bert,175,69,R,R,1902-04-17,1916-09-22,tinkj101,tinkejo01
-tinneth01,,,,,,,,,,,,,Thomas,Tinney,Thomas,,,,,1884-04-28,1884-06-24,,
+tinneth01,,,,,,,,,,,,,Thomas,Tinney,Thomas,,,,,1884-04-28,1884-06-24,tinnt101,
 tinnibu01,1906,3,12,USA,NE,Pilger,1961,1,17,USA,IN,Evansville,Bud,Tinning,Lyle Forest,198,71,B,R,1932-04-20,1935-04-27,tinnb101,tinnibu01
 tinslle01,1969,3,4,USA,KY,Shelbyville,,,,,,,Lee,Tinsley,Lee Owen,190,71,B,R,1993-04-06,1997-09-28,tinsl001,tinslle01
 tippeji01,1849,6,18,USA,CT,Middletown,1895,4,21,USA,CT,New Haven,Jim,Tipper,James,148,65,,,1872-04-26,1875-10-28,tippj101,tippeji01
@@ -19314,6 +19315,7 @@ zearfda01,1868,1,1,USA,NY,Schenectady,1945,9,12,USA,DE,Wilmington,Dave,Zearfoss,
 zeberge01,1950,8,29,USA,PA,Ellwood City,,,,,,,George,Zeber,George William,170,71,B,R,1977-05-07,1978-06-14,zebeg101,zeberge01
 zeidero01,1883,11,16,USA,IN,Auburn,1967,9,12,USA,IN,Garrett,Rollie,Zeider,Rollie Hubert,162,70,R,R,1910-04-14,1918-08-29,zeidr101,zeidero01
 zeidjo01,1987,3,24,USA,CT,New Haven,,,,,,,Josh,Zeid,Joshua Alexander,220,76,R,R,2013-07-30,2014-07-24,zeidj001,zeidjo01
+zeihehe01,1862,8,11,USA,PA,Philadelphia,1951,10,14,USA,PA,Philadelphia,Henry,Zeiher,Henry,149,,,,,,zeihh101,zeihehe01
 zeileto01,1965,9,9,USA,CA,Van Nuys,,,,,,,Todd,Zeile,Todd Edward,190,73,R,R,1989-08-18,2004-10-03,zeilt001,zeileto01
 zeisema01,1888,9,25,USA,IL,Chicago,1942,6,10,USA,IL,Chicago,Matt,Zieser,Mathias John,170,70,R,R,1914-04-27,1914-05-11,zeism101,zeisema01
 zelleba01,1941,7,22,USA,IL,Chicago Heights,,,,,,,Bart,Zeller,Barton Wallace,185,73,R,R,1970-05-21,1970-05-21,zellb101,zelleba01

@@ -2999,7 +2999,7 @@ chitiha01,1932,11,16,USA,IL,Kincaid,2002,1,31,USA,FL,Haines City,Harry,Chiti,Har
 chitrst01,1967,6,8,Japan,Tokyo,Tokyo,,,,,,,Steve,Chitren,Stephen Vincent,180,72,R,R,1990-09-05,1991-10-02,chits001,chitrst01
 chittne01,1933,3,25,USA,VA,Harrisonburg,,,,,,,Nelson,Chittum,Nelson Boyd,180,73,R,R,1958-08-17,1960-05-04,chitn101,chittne01
 chlupbo01,1945,9,16,USA,NY,New York,,,,,,,Bob,Chlupsa,Robert Joseph,215,79,R,R,1970-07-16,1971-06-04,chlub101,chlupbo01
-choatdo01,1938,7,2,USA,MO,Potosi,,,,,,,Don,Choate,Donald Leon,185,72,R,R,1960-09-12,1960-09-28,choad101,choatdo01
+choatdo01,1938,7,2,USA,MO,Potosi,2018,2,4,USA,IL,Fairview Heights,Don,Choate,Donald Leon,185,72,R,R,1960-09-12,1960-09-28,choad101,choatdo01
 choatra01,1975,9,5,USA,TX,San Antonio,,,,,,,Randy,Choate,Randol Doyle,205,73,L,L,2000-07-01,2015-10-02,choar001,choatra01
 choicmi01,1989,11,10,USA,TX,Fort Worth,,,,,,,Michael,Choice,Michael Blair,230,72,R,R,2013-09-02,2015-06-24,choim001,choicmi01
 choihe01,1979,3,16,South Korea,South Jeolla,Hwasun,,,,,,,Hee-Seop,Choi,Hee-Seop,235,77,L,L,2002-09-03,2005-10-02,choih001,choihe01
@@ -3925,7 +3925,7 @@ dacqujo01,1951,12,24,USA,CA,San Diego,,,,,,,John,D'Acquisto,John Francis,205,74,
 dadepa01,1951,12,7,USA,WA,Seattle,2016,8,25,USA,WA,Seattle,Paul,Dade,Lonnie Paul,185,73,R,R,1975-09-12,1980-10-05,dadep101,dadepa01
 dagenjo01,1917,4,25,USA,OH,Magnolia,2001,7,16,USA,OH,Bolivar,John,Dagenhard,John Douglas,195,74,R,R,1943-09-28,1943-10-03,dagej101,dagenjo01
 daglipe01,1906,2,28,USA,CA,Napa,1952,3,11,USA,CA,Willits,Pete,Daglia,Peter George,200,73,R,R,1932-06-08,1932-07-27,daglp101,daglipe01
-dagrean01,1934,8,22,USA,MA,Newburyport,,,,,,,Angelo,Dagres,Angelo George,175,71,L,L,1955-09-11,1955-09-25,dagra101,dagrean01
+dagrean01,1934,8,22,USA,MA,Newburyport,2017,12,23,,,,Angelo,Dagres,Angelo George,175,71,L,L,1955-09-11,1955-09-25,dagra101,dagrean01
 dahlda01,1994,4,1,USA,AL,Birmingham,,,,,,,David,Dahl,David Martin,195,74,L,R,2016-07-25,2016-10-02,dahld001,dahlda01
 dahlebi01,1870,1,5,USA,NY,Nelliston,1950,12,5,USA,NY,Brooklyn,Bill,Dahlen,William Frederick,180,69,R,R,1891-04-22,1911-10-12,dahlb102,dahlebi01
 dahlgba01,1912,6,15,USA,CA,San Francisco,1996,9,4,USA,CA,Arcadia,Babe,Dahlgren,Ellsworth Tenney,190,72,R,R,1935-04-16,1946-09-03,dahlb101,dahlgba01
@@ -4444,7 +4444,7 @@ dietrbi01,1910,3,29,USA,PA,Philadelphia,1978,6,20,USA,PA,Philadelphia,Bill,Dietr
 dietrde01,1989,7,18,USA,OH,Cleveland,,,,,,,Derek,Dietrich,Derek Richard,205,72,L,R,2013-05-08,2017-09-30,dietd001,dietrde01
 dietzdi01,1941,9,18,USA,IN,Crawfordsville,2005,6,27,USA,GA,Clayton,Dick,Dietz,Richard Allen,195,73,R,R,1966-06-18,1973-09-30,dietd101,dietzdi01
 dietzdu01,1912,2,12,USA,OH,Cincinnati,1972,10,29,USA,TX,Beaumont,Dutch,Dietz,Lloyd Arthur,180,71,R,R,1940-04-26,1943-07-29,dietd102,dietzdu01
-dietzro01,1931,1,9,USA,MD,Baltimore,,,,,,,Roy,Dietzel,Leroy Louis,190,72,R,R,1954-09-02,1954-09-24,dietr101,dietzro01
+dietzro01,1931,1,9,USA,MD,Baltimore,2018,2,3,USA,NC,Charlotte,Roy,Dietzel,Leroy Louis,190,72,R,R,1954-09-02,1954-09-24,dietr101,dietzro01
 difanja01,1922,12,21,USA,MO,Crystal City,2003,12,3,USA,MO,Crystal City,Jay,Difani,Clarence Joseph,170,72,R,R,1948-04-23,1949-04-28,difaj101,difanja01
 difelma01,1976,8,23,USA,PA,Bryn Mawr,,,,,,,Mark,DiFelice,Mark Andrew,190,74,R,R,2008-05-18,2011-06-25,difem002,difelma01
 difelmi01,1969,5,28,USA,PA,Philadelphia,,,,,,,Mike,Difelice,Michael William,205,74,R,R,1996-09-01,2008-04-18,difem001,difelmi01
@@ -5737,7 +5737,7 @@ francma02,1992,8,26,D.R.,Azua,Azua,,,,,,,Maikel,Franco,Maikel Antonio,215,73,R,R
 francos01,1858,10,4,USA,OH,Greensburg,1947,5,2,USA,OH,Akron,Ossie,France,Osman Beverly,155,68,L,L,1890-07-14,1890-07-14,frano101,francos01
 francra01,1893,3,8,USA,TX,Sherman,1934,7,6,USA,GA,Atlanta,Ray,Francis,Ray James,182,73,L,L,1922-04-18,1925-06-10,franr101,francra01
 francte01,1959,4,22,USA,SD,Aberdeen,,,,,,,Terry,Francona,Terry Jon,190,73,L,L,1981-08-19,1990-04-19,frant001,francte01
-francti01,1933,11,4,USA,PA,Aliquippa,,,,,,,Tito,Francona,John Patsy,190,71,L,L,1956-04-17,1970-09-29,frant101,francti01
+francti01,1933,11,4,USA,PA,Aliquippa,2018,2,13,USA,PA,New Brighton,Tito,Francona,John Patsy,190,71,L,L,1956-04-17,1970-09-29,frant101,francti01
 frandke01,1982,5,24,USA,CA,San Jose,,,,,,,Kevin,Frandsen,Kevin Vincent,190,72,R,R,2006-04-28,2015-10-03,frank001,frandke01
 frank01,,,,,,,,,,,,,,Franklin,,,,,,1884-09-27,1884-09-27,franu101,frank01
 frankch01,1870,5,30,USA,AL,Mobile,1922,5,24,USA,TN,Memphis,Charlie,Frank,Charles,170,70,L,L,1893-08-18,1894-07-25,franc101,frankch01
@@ -12076,7 +12076,7 @@ moolige01,1867,3,12,USA,MA,Lawrence,1915,2,19,USA,MA,Lawrence,George,Moolic,Geor
 moonebi01,1960,8,16,USA,CA,Livermore,,,,,,,Bill,Mooneyham,William Craig,175,72,R,R,1986-04-19,1986-09-30,moonb001,moonebi01
 mooneji01,1906,9,4,USA,TN,Mooresburg,1979,4,27,USA,TN,Johnson City,Jim,Mooney,James Irving,168,71,R,L,1931-08-14,1934-08-27,moonj101,mooneji01
 moonle01,1899,6,22,USA,NC,Bellemont,1970,8,25,USA,LA,New Orleans,Leo,Moon,Leo,165,71,R,L,1932-07-09,1932-07-09,moonl101,moonle01
-moonwa01,1930,4,3,USA,AR,Bay,,,,,,,Wally,Moon,Wallace Wade,169,72,L,R,1954-04-13,1965-09-12,moonw101,moonwa01
+moonwa01,1930,4,3,USA,AR,Bay,2018,2,9,USA,TX,Bryan,Wally,Moon,Wallace Wade,169,72,L,R,1954-04-13,1965-09-12,moonw101,moonwa01
 mooread01,1984,5,8,USA,TX,Longview,,,,,,,Adam,Moore,Adam Ross,220,75,R,R,2009-09-17,2016-09-27,moora001,mooread01
 mooreal01,1902,8,4,USA,NY,Brooklyn,1974,11,29,,Atlantic Ocean,QS,Al,Moore,Albert James,174,70,R,R,1925-09-27,1926-09-24,moora103,mooreal01
 moorean01,1917,9,22,USA,LA,Delhi,1993,10,29,USA,MS,Pearl,Anse,Moore,Anselm Winn,190,73,L,R,1946-04-17,1946-09-29,moora102,moorean01
@@ -13543,7 +13543,7 @@ peplope01,1891,9,12,USA,NY,Brooklyn,1972,7,13,USA,NY,New York,Pepper,Peploski,Jo
 peppebo01,1895,5,3,USA,PA,Rosston,1968,4,8,USA,PA,Ford Cliff,Bob,Pepper,Robert Ernest,178,74,R,R,1915-07-23,1915-07-23,peppb101,peppebo01
 peppedo01,1943,10,8,USA,NY,Saratoga Springs,,,,,,,Don,Pepper,Donald Hoyte,215,76,L,L,1966-09-10,1966-10-02,peppd101,peppedo01
 peppeha01,1865,9,2,USA,KY,,1903,11,5,USA,MO,Webb City,Harrison,Peppers,William Harrison,,,L,,1894-06-30,1894-07-06,pepph101,peppeha01
-peppela01,1931,1,18,USA,MS,Vaughan,,,,,,,Laurin,Pepper,Hugh McLaurin,190,71,R,R,1954-07-04,1957-06-06,peppl101,peppela01
+peppela01,1931,1,18,USA,MS,Vaughan,2018,2,4,USA,MS,Ocean Springs,Laurin,Pepper,Hugh McLaurin,190,71,R,R,1954-07-04,1957-06-06,peppl101,peppela01
 peppera01,1905,8,5,USA,AL,Decatur,1996,3,24,USA,AL,Belle Mina,Ray,Pepper,Raymond Watson,195,74,R,R,1932-04-15,1936-09-25,peppr101,peppera01
 peralda01,1987,8,14,Venezuela,Carabobo,Valencia,,,,,,,David,Peralta,Senger David,210,73,L,L,2014-06-01,2017-09-30,perad001,peralda01
 peraljh01,1982,5,28,D.R.,Santiago,Santiago,,,,,,,Jhonny,Peralta,Jhonny Antonio,225,74,R,R,2003-06-12,2017-06-06,peraj001,peraljh01
